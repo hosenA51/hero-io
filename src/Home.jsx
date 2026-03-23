@@ -1,4 +1,5 @@
 import Banner from "./components/Banner"
+import State from "./components/State"
 
 function Home() {
 
@@ -6,7 +7,7 @@ function Home() {
   return (
     <>
       <Banner/>
-      
+      <State/>
     </>
   )
 }
