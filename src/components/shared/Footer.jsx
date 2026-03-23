@@ -6,13 +6,13 @@ import logo from '../../assets/logo.png'
 
 const Footer = () => {
     return (
-        <footer className="bg-[#001931] text-gray-300 mt-20">
+        <footer className="bg-[#001931] text-gray-300">
             <div className="w-11/12 mx-auto py-14 
                       grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-10">
                 <div>
                     <a href='/' className="font-bold text-xl flex items-center"><img src={logo} className='w-10 h-10' alt="" /> HERO.IO</a>
                     <p className="text-sm leading-relaxed mt-3">
-                        Empowering users to discover, explore, and install apps effortlessly — a modern, intelligent app store experience built for simplicity, performance, and innovation.
+                        At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. Our goal is to turn your ideas into digital experiences that truly make an impact.
                     </p>
                 </div>
                 <div>

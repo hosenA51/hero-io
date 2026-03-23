@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "Facebook",
+    "companyName": "Meta",
+    "image": "https://via.placeholder.com/150",
+    "description": "Connect with friends and the world around you.",
+    "size": 75,
+    "reviews": 1200000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 530000 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Instagram",
+    "companyName": "Meta",
+    "image": "https://via.placeholder.com/150",
+    "description": "Share photos and videos.",
+    "size": 65,
+    "reviews": 950000,
+    "ratingAvg": 4.6,
+    "downloads": 450000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 350000 },
+      { "name": "5 star", "count": 370000 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "WhatsApp",
+    "companyName": "Meta",
+    "image": "https://via.placeholder.com/150",
+    "description": "Simple, reliable messaging app.",
+    "size": 45,
+    "reviews": 2000000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 1370000 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "YouTube",
+    "companyName": "Google",
+    "image": "https://via.placeholder.com/150",
+    "description": "Watch and share videos.",
+    "size": 80,
+    "reviews": 3000000,
+    "ratingAvg": 4.6,
+    "downloads": 1200000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 600000 },
+      { "name": "5 star", "count": 2100000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "image": "https://via.placeholder.com/150",
+    "description": "Short video platform.",
+    "size": 70,
+    "reviews": 1800000,
+    "ratingAvg": 4.4,
+    "downloads": 900000000,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 880000 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Messenger",
+    "companyName": "Meta",
+    "image": "https://via.placeholder.com/150",
+    "description": "Instant messaging and calls.",
+    "size": 60,
+    "reviews": 1100000,
+    "ratingAvg": 4.3,
+    "downloads": 700000000,
+    "ratings": [
+      { "name": "1 star", "count": 90000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 410000 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Spotify",
+    "companyName": "Spotify Ltd.",
+    "image": "https://via.placeholder.com/150",
+    "description": "Music streaming service.",
+    "size": 55,
+    "reviews": 800000,
+    "ratingAvg": 4.6,
+    "downloads": 600000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 350000 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "image": "https://via.placeholder.com/150",
+    "description": "Watch movies and series.",
+    "size": 90,
+    "reviews": 950000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 460000 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Twitter",
+    "companyName": "X Corp",
+    "image": "https://via.placeholder.com/150",
+    "description": "Social networking platform.",
+    "size": 50,
+    "reviews": 600000,
+    "ratingAvg": 4.2,
+    "downloads": 400000000,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 130000 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "LinkedIn",
+    "companyName": "Microsoft",
+    "image": "https://via.placeholder.com/150",
+    "description": "Professional networking.",
+    "size": 65,
+    "reviews": 500000,
+    "ratingAvg": 4.3,
+    "downloads": 300000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 150000 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "image": "https://via.placeholder.com/150",
+    "description": "Photo sharing app.",
+    "size": 70,
+    "reviews": 450000,
+    "ratingAvg": 4.1,
+    "downloads": 350000000,
+    "ratings": [
+      { "name": "1 star", "count": 90000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 90000 },
+      { "name": "5 star", "count": 90000 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Zoom",
+    "companyName": "Zoom Video",
+    "image": "https://via.placeholder.com/150",
+    "description": "Video conferencing.",
+    "size": 85,
+    "reviews": 700000,
+    "ratingAvg": 4.4,
+    "downloads": 450000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 320000 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Telegram",
+    "companyName": "Telegram FZ",
+    "image": "https://via.placeholder.com/150",
+    "description": "Secure messaging app.",
+    "size": 40,
+    "reviews": 900000,
+    "ratingAvg": 4.7,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 470000 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Pinterest",
+    "companyName": "Pinterest Inc.",
+    "image": "https://via.placeholder.com/150",
+    "description": "Discover ideas.",
+    "size": 60,
+    "reviews": 400000,
+    "ratingAvg": 4.5,
+    "downloads": 300000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 160000 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Uber",
+    "companyName": "Uber Technologies",
+    "image": "https://via.placeholder.com/150",
+    "description": "Ride sharing app.",
+    "size": 95,
+    "reviews": 850000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 230000 }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Daraz",
+    "companyName": "Alibaba Group",
+    "image": "https://via.placeholder.com/150",
+    "description": "Online shopping app.",
+    "size": 85,
+    "reviews": 300000,
+    "ratingAvg": 4.3,
+    "downloads": 200000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 80000 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Foodpanda",
+    "companyName": "Delivery Hero",
+    "image": "https://via.placeholder.com/150",
+    "description": "Food delivery app.",
+    "size": 75,
+    "reviews": 250000,
+    "ratingAvg": 4.1,
+    "downloads": 150000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 60000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Google Maps",
+    "companyName": "Google",
+    "image": "https://via.placeholder.com/150",
+    "description": "Navigation and maps.",
+    "size": 100,
+    "reviews": 2000000,
+    "ratingAvg": 4.6,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 600000 },
+      { "name": "5 star", "count": 1170000 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Google Drive",
+    "companyName": "Google",
+    "image": "https://via.placeholder.com/150",
+    "description": "Cloud storage service.",
+    "size": 60,
+    "reviews": 1000000,
+    "ratingAvg": 4.7,
+    "downloads": 900000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 550000 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "image": "https://via.placeholder.com/150",
+    "description": "Design and editing app.",
+    "size": 70,
+    "reviews": 600000,
+    "ratingAvg": 4.8,
+    "downloads": 400000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 370000 }
+    ]
+  }
+]
