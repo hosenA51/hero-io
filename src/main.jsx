@@ -5,6 +5,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Layout from './Layout';
 import Home from './Home';
 import axios from 'axios';
+import Apps from './components/Apps';
 
 const router = createBrowserRouter([
   {
@@ -14,6 +15,14 @@ const router = createBrowserRouter([
       {
         index: true,
         element: <Home/>,
+        loader: async ()=>{
+          const res = await axios.get("/apps.json");
+          return res.data;
+        }
+      },
+      {
+        path: "/apps",
+        element: <Apps/>,
         loader: async ()=>{
           const res = await axios.get("/apps.json");
           return res.data;

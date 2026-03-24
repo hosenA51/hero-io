@@ -4,13 +4,13 @@ import { FiDownload } from 'react-icons/fi';
 
 const AppCard = ({app}) => {
     return (
-        <div>
+        <div className='mx-auto'>
             <div className="card w-80 shadow-sm h-96 bg-white">
                 <figure className='px-6 pt-6'>
                     <img
                         src={app.image}
                         className='w-full h-60 bg-gray-200 rounded-md border'
-                        alt="Shoes" />
+                        alt="Shoes"/>
                 </figure>
                 <div className="card-body">
                     <h2 className="card-title text-black">{app.title}</h2>

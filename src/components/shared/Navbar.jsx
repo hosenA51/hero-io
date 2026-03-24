@@ -5,11 +5,15 @@ import logo from '../../assets/logo.png'
 
 const Navbar = () => {
 
+    const linkStyle = ({ isActive }) => isActive ? 
+    "bg-linear-to-r from-[#6D28D9] to-[#8B5CF6] bg-clip-text text-transparent border-b-2 border-[#8B5CF6] pb-1"
+    : "text-black";
+
     const links = (
         <>
-        <NavLink>Home</NavLink>
-        <NavLink>Apps</NavLink>
-        <NavLink>Installation</NavLink>
+        <NavLink to="/" className={linkStyle}>Home</NavLink>
+        <NavLink to="/apps" className={linkStyle}>Apps</NavLink>
+        <NavLink className={linkStyle}>Installation</NavLink>
         </>
     )
 
