@@ -1,362 +1,596 @@
 [
-  {
-    "id": 1,
-    "title": "Facebook",
-    "companyName": "Meta",
-    "image": "https://via.placeholder.com/150",
-    "description": "Connect with friends and the world around you.",
-    "size": 75,
-    "reviews": 1200000,
-    "ratingAvg": 4.5,
-    "downloads": 500000000,
-    "ratings": [
-      { "name": "1 star", "count": 50000 },
-      { "name": "2 star", "count": 70000 },
-      { "name": "3 star", "count": 200000 },
-      { "name": "4 star", "count": 400000 },
-      { "name": "5 star", "count": 530000 }
-    ]
-  },
-  {
-    "id": 2,
-    "title": "Instagram",
-    "companyName": "Meta",
-    "image": "https://via.placeholder.com/150",
-    "description": "Share photos and videos.",
-    "size": 65,
-    "reviews": 950000,
-    "ratingAvg": 4.6,
-    "downloads": 450000000,
-    "ratings": [
-      { "name": "1 star", "count": 30000 },
-      { "name": "2 star", "count": 50000 },
-      { "name": "3 star", "count": 150000 },
-      { "name": "4 star", "count": 350000 },
-      { "name": "5 star", "count": 370000 }
-    ]
-  },
-  {
-    "id": 3,
-    "title": "WhatsApp",
-    "companyName": "Meta",
-    "image": "https://via.placeholder.com/150",
-    "description": "Simple, reliable messaging app.",
-    "size": 45,
-    "reviews": 2000000,
-    "ratingAvg": 4.7,
-    "downloads": 1000000000,
-    "ratings": [
-      { "name": "1 star", "count": 20000 },
-      { "name": "2 star", "count": 30000 },
-      { "name": "3 star", "count": 100000 },
-      { "name": "4 star", "count": 500000 },
-      { "name": "5 star", "count": 1370000 }
-    ]
-  },
-  {
-    "id": 4,
-    "title": "YouTube",
-    "companyName": "Google",
-    "image": "https://via.placeholder.com/150",
-    "description": "Watch and share videos.",
-    "size": 80,
-    "reviews": 3000000,
-    "ratingAvg": 4.6,
-    "downloads": 1200000000,
-    "ratings": [
-      { "name": "1 star", "count": 40000 },
-      { "name": "2 star", "count": 60000 },
-      { "name": "3 star", "count": 200000 },
-      { "name": "4 star", "count": 600000 },
-      { "name": "5 star", "count": 2100000 }
-    ]
-  },
-  {
-    "id": 5,
-    "title": "TikTok",
-    "companyName": "ByteDance",
-    "image": "https://via.placeholder.com/150",
-    "description": "Short video platform.",
-    "size": 70,
-    "reviews": 1800000,
-    "ratingAvg": 4.4,
-    "downloads": 900000000,
-    "ratings": [
-      { "name": "1 star", "count": 80000 },
-      { "name": "2 star", "count": 90000 },
-      { "name": "3 star", "count": 250000 },
-      { "name": "4 star", "count": 500000 },
-      { "name": "5 star", "count": 880000 }
-    ]
-  },
-  {
-    "id": 6,
-    "title": "Messenger",
-    "companyName": "Meta",
-    "image": "https://via.placeholder.com/150",
-    "description": "Instant messaging and calls.",
-    "size": 60,
-    "reviews": 1100000,
-    "ratingAvg": 4.3,
-    "downloads": 700000000,
-    "ratings": [
-      { "name": "1 star", "count": 90000 },
-      { "name": "2 star", "count": 100000 },
-      { "name": "3 star", "count": 200000 },
-      { "name": "4 star", "count": 300000 },
-      { "name": "5 star", "count": 410000 }
-    ]
-  },
-  {
-    "id": 7,
-    "title": "Spotify",
-    "companyName": "Spotify Ltd.",
-    "image": "https://via.placeholder.com/150",
-    "description": "Music streaming service.",
-    "size": 55,
-    "reviews": 800000,
-    "ratingAvg": 4.6,
-    "downloads": 600000000,
-    "ratings": [
-      { "name": "1 star", "count": 20000 },
-      { "name": "2 star", "count": 30000 },
-      { "name": "3 star", "count": 100000 },
-      { "name": "4 star", "count": 300000 },
-      { "name": "5 star", "count": 350000 }
-    ]
-  },
-  {
-    "id": 8,
-    "title": "Netflix",
-    "companyName": "Netflix Inc.",
-    "image": "https://via.placeholder.com/150",
-    "description": "Watch movies and series.",
-    "size": 90,
-    "reviews": 950000,
-    "ratingAvg": 4.5,
-    "downloads": 500000000,
-    "ratings": [
-      { "name": "1 star", "count": 40000 },
-      { "name": "2 star", "count": 50000 },
-      { "name": "3 star", "count": 150000 },
-      { "name": "4 star", "count": 250000 },
-      { "name": "5 star", "count": 460000 }
-    ]
-  },
-  {
-    "id": 9,
-    "title": "Twitter",
-    "companyName": "X Corp",
-    "image": "https://via.placeholder.com/150",
-    "description": "Social networking platform.",
-    "size": 50,
-    "reviews": 600000,
-    "ratingAvg": 4.2,
-    "downloads": 400000000,
-    "ratings": [
-      { "name": "1 star", "count": 80000 },
-      { "name": "2 star", "count": 90000 },
-      { "name": "3 star", "count": 150000 },
-      { "name": "4 star", "count": 150000 },
-      { "name": "5 star", "count": 130000 }
-    ]
-  },
-  {
-    "id": 10,
-    "title": "LinkedIn",
-    "companyName": "Microsoft",
-    "image": "https://via.placeholder.com/150",
-    "description": "Professional networking.",
-    "size": 65,
-    "reviews": 500000,
-    "ratingAvg": 4.3,
-    "downloads": 300000000,
-    "ratings": [
-      { "name": "1 star", "count": 40000 },
-      { "name": "2 star", "count": 60000 },
-      { "name": "3 star", "count": 100000 },
-      { "name": "4 star", "count": 150000 },
-      { "name": "5 star", "count": 150000 }
-    ]
-  },
-  {
-    "id": 11,
-    "title": "Snapchat",
-    "companyName": "Snap Inc.",
-    "image": "https://via.placeholder.com/150",
-    "description": "Photo sharing app.",
-    "size": 70,
-    "reviews": 450000,
-    "ratingAvg": 4.1,
-    "downloads": 350000000,
-    "ratings": [
-      { "name": "1 star", "count": 90000 },
-      { "name": "2 star", "count": 80000 },
-      { "name": "3 star", "count": 100000 },
-      { "name": "4 star", "count": 90000 },
-      { "name": "5 star", "count": 90000 }
-    ]
-  },
-  {
-    "id": 12,
-    "title": "Zoom",
-    "companyName": "Zoom Video",
-    "image": "https://via.placeholder.com/150",
-    "description": "Video conferencing.",
-    "size": 85,
-    "reviews": 700000,
-    "ratingAvg": 4.4,
-    "downloads": 450000000,
-    "ratings": [
-      { "name": "1 star", "count": 30000 },
-      { "name": "2 star", "count": 50000 },
-      { "name": "3 star", "count": 100000 },
-      { "name": "4 star", "count": 200000 },
-      { "name": "5 star", "count": 320000 }
-    ]
-  },
-  {
-    "id": 13,
-    "title": "Telegram",
-    "companyName": "Telegram FZ",
-    "image": "https://via.placeholder.com/150",
-    "description": "Secure messaging app.",
-    "size": 40,
-    "reviews": 900000,
-    "ratingAvg": 4.7,
-    "downloads": 800000000,
-    "ratings": [
-      { "name": "1 star", "count": 20000 },
-      { "name": "2 star", "count": 30000 },
-      { "name": "3 star", "count": 80000 },
-      { "name": "4 star", "count": 300000 },
-      { "name": "5 star", "count": 470000 }
-    ]
-  },
-  {
-    "id": 14,
-    "title": "Pinterest",
-    "companyName": "Pinterest Inc.",
-    "image": "https://via.placeholder.com/150",
-    "description": "Discover ideas.",
-    "size": 60,
-    "reviews": 400000,
-    "ratingAvg": 4.5,
-    "downloads": 300000000,
-    "ratings": [
-      { "name": "1 star", "count": 20000 },
-      { "name": "2 star", "count": 30000 },
-      { "name": "3 star", "count": 70000 },
-      { "name": "4 star", "count": 120000 },
-      { "name": "5 star", "count": 160000 }
-    ]
-  },
-  {
-    "id": 15,
-    "title": "Uber",
-    "companyName": "Uber Technologies",
-    "image": "https://via.placeholder.com/150",
-    "description": "Ride sharing app.",
-    "size": 95,
-    "reviews": 850000,
-    "ratingAvg": 4.2,
-    "downloads": 500000000,
-    "ratings": [
-      { "name": "1 star", "count": 100000 },
-      { "name": "2 star", "count": 120000 },
-      { "name": "3 star", "count": 200000 },
-      { "name": "4 star", "count": 200000 },
-      { "name": "5 star", "count": 230000 }
-    ]
-  },
-  {
-    "id": 16,
-    "title": "Daraz",
-    "companyName": "Alibaba Group",
-    "image": "https://via.placeholder.com/150",
-    "description": "Online shopping app.",
-    "size": 85,
-    "reviews": 300000,
-    "ratingAvg": 4.3,
-    "downloads": 200000000,
-    "ratings": [
-      { "name": "1 star", "count": 30000 },
-      { "name": "2 star", "count": 40000 },
-      { "name": "3 star", "count": 70000 },
-      { "name": "4 star", "count": 80000 },
-      { "name": "5 star", "count": 80000 }
-    ]
-  },
-  {
-    "id": 17,
-    "title": "Foodpanda",
-    "companyName": "Delivery Hero",
-    "image": "https://via.placeholder.com/150",
-    "description": "Food delivery app.",
-    "size": 75,
-    "reviews": 250000,
-    "ratingAvg": 4.1,
-    "downloads": 150000000,
-    "ratings": [
-      { "name": "1 star", "count": 40000 },
-      { "name": "2 star", "count": 50000 },
-      { "name": "3 star", "count": 60000 },
-      { "name": "4 star", "count": 50000 },
-      { "name": "5 star", "count": 50000 }
-    ]
-  },
-  {
-    "id": 18,
-    "title": "Google Maps",
-    "companyName": "Google",
-    "image": "https://via.placeholder.com/150",
-    "description": "Navigation and maps.",
-    "size": 100,
-    "reviews": 2000000,
-    "ratingAvg": 4.6,
-    "downloads": 1500000000,
-    "ratings": [
-      { "name": "1 star", "count": 30000 },
-      { "name": "2 star", "count": 50000 },
-      { "name": "3 star", "count": 150000 },
-      { "name": "4 star", "count": 600000 },
-      { "name": "5 star", "count": 1170000 }
-    ]
-  },
-  {
-    "id": 19,
-    "title": "Google Drive",
-    "companyName": "Google",
-    "image": "https://via.placeholder.com/150",
-    "description": "Cloud storage service.",
-    "size": 60,
-    "reviews": 1000000,
-    "ratingAvg": 4.7,
-    "downloads": 900000000,
-    "ratings": [
-      { "name": "1 star", "count": 20000 },
-      { "name": "2 star", "count": 30000 },
-      { "name": "3 star", "count": 100000 },
-      { "name": "4 star", "count": 300000 },
-      { "name": "5 star", "count": 550000 }
-    ]
-  },
-  {
-    "id": 20,
-    "title": "Canva",
-    "companyName": "Canva Pty Ltd",
-    "image": "https://via.placeholder.com/150",
-    "description": "Design and editing app.",
-    "size": 70,
-    "reviews": 600000,
-    "ratingAvg": 4.8,
-    "downloads": 400000000,
-    "ratings": [
-      { "name": "1 star", "count": 10000 },
-      { "name": "2 star", "count": 20000 },
-      { "name": "3 star", "count": 50000 },
-      { "name": "4 star", "count": 150000 },
-      { "name": "5 star", "count": 370000 }
-    ]
-  }
+    {
+        "id": 1,
+        "title": "Notion",
+        "companyName": "Notion Labs",
+        "image": "https://i.ibb.co.com/zTP1PyFj/Notion-app-logo.png",
+        "description": "Notion is an all-in-one productivity workspace designed to help individuals and teams organize their work efficiently. It allows users to take notes, manage tasks, create databases, and collaborate in real-time. With its flexible structure and customizable templates, Notion is widely used for project management, documentation, and personal productivity.",
+        "size": 80,
+        "reviews": 500000,
+        "ratingAvg": 4.7,
+        "downloads": 100000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10000
+            },
+            {
+                "name": "2 star",
+                "count": 15000
+            },
+            {
+                "name": "3 star",
+                "count": 50000
+            },
+            {
+                "name": "4 star",
+                "count": 150000
+            },
+            {
+                "name": "5 star",
+                "count": 275000
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Duolingo",
+        "companyName": "Duolingo Inc.",
+        "image": "https://i.ibb.co.com/pqjrR4K/duolingo-logo-png-seeklogo-458347.png",
+        "description": "Duolingo is a fun and interactive language-learning platform that helps users learn new languages through gamified lessons. It offers bite-sized exercises, speaking practice, and real-time feedback, making language learning engaging and effective for beginners and advanced learners alike.",
+        "size": 60,
+        "reviews": 1200000,
+        "ratingAvg": 4.8,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20000
+            },
+            {
+                "name": "2 star",
+                "count": 30000
+            },
+            {
+                "name": "3 star",
+                "count": 100000
+            },
+            {
+                "name": "4 star",
+                "count": 400000
+            },
+            {
+                "name": "5 star",
+                "count": 650000
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Figma",
+        "companyName": "Figma Inc.",
+        "image": "https://i.ibb.co.com/MDRv2nRM/figma.png",
+        "description": "Figma is a powerful cloud-based design and prototyping tool used by designers and developers to create user interfaces and collaborate in real time. It allows teams to design, prototype, and share their work seamlessly, making it a popular choice for UI/UX design.",
+        "size": 75,
+        "reviews": 400000,
+        "ratingAvg": 4.7,
+        "downloads": 150000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10000
+            },
+            {
+                "name": "2 star",
+                "count": 15000
+            },
+            {
+                "name": "3 star",
+                "count": 40000
+            },
+            {
+                "name": "4 star",
+                "count": 120000
+            },
+            {
+                "name": "5 star",
+                "count": 215000
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Trello",
+        "companyName": "Atlassian",
+        "image": "https://i.ibb.co.com/Vcvcs58d/udemy.png",
+        "description": "Trello is a visual project management tool that helps teams organize tasks and workflows using boards, lists, and cards. It is simple yet powerful, making it ideal for managing projects, tracking progress, and collaborating effectively.",
+        "size": 55,
+        "reviews": 350000,
+        "ratingAvg": 4.5,
+        "downloads": 200000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20000
+            },
+            {
+                "name": "2 star",
+                "count": 30000
+            },
+            {
+                "name": "3 star",
+                "count": 60000
+            },
+            {
+                "name": "4 star",
+                "count": 120000
+            },
+            {
+                "name": "5 star",
+                "count": 120000
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Grammarly",
+        "companyName": "Grammarly Inc.",
+        "image": "https://i.ibb.co.com/SXNvBWx3/grammarly-logo-brandlogos-net-kgxni-300x300.png",
+        "description": "Grammarly is an advanced writing assistant that helps users improve their grammar, spelling, and writing clarity. It provides real-time suggestions and tone detection, making it an essential tool for students, professionals, and content creators.",
+        "size": 50,
+        "reviews": 600000,
+        "ratingAvg": 4.6,
+        "downloads": 300000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15000
+            },
+            {
+                "name": "2 star",
+                "count": 25000
+            },
+            {
+                "name": "3 star",
+                "count": 70000
+            },
+            {
+                "name": "4 star",
+                "count": 200000
+            },
+            {
+                "name": "5 star",
+                "count": 290000
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Khan Academy",
+        "companyName": "Khan Academy",
+        "image": "https://i.ibb.co.com/N2B3kHrb/images.jpg",
+        "description": "Khan Academy is a free educational platform offering lessons in math, science, programming, and more. It provides video tutorials, exercises, and personalized learning dashboards to help users learn at their own pace.",
+        "size": 70,
+        "reviews": 500000,
+        "ratingAvg": 4.8,
+        "downloads": 100000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10000
+            },
+            {
+                "name": "2 star",
+                "count": 15000
+            },
+            {
+                "name": "3 star",
+                "count": 40000
+            },
+            {
+                "name": "4 star",
+                "count": 150000
+            },
+            {
+                "name": "5 star",
+                "count": 285000
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Airbnb",
+        "companyName": "Airbnb Inc.",
+        "image": "https://i.ibb.co.com/2xrW698/airbnb-logo.png",
+        "description": "Airbnb allows users to book unique accommodations and experiences around the world. From apartments to villas, it offers a wide range of options for travelers looking for comfortable and affordable stays.",
+        "size": 85,
+        "reviews": 800000,
+        "ratingAvg": 4.5,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 50000
+            },
+            {
+                "name": "2 star",
+                "count": 70000
+            },
+            {
+                "name": "3 star",
+                "count": 150000
+            },
+            {
+                "name": "4 star",
+                "count": 250000
+            },
+            {
+                "name": "5 star",
+                "count": 280000
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Slack",
+        "companyName": "Slack Technologies",
+        "image": "https://i.ibb.co.com/JFgzx7Ck/Slack-icon-2019-svg.png",
+        "description": "Slack is a team communication platform that enables real-time messaging, file sharing, and collaboration. It integrates with various tools, making it an essential workspace for modern teams.",
+        "size": 70,
+        "reviews": 350000,
+        "ratingAvg": 4.5,
+        "downloads": 200000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20000
+            },
+            {
+                "name": "2 star",
+                "count": 30000
+            },
+            {
+                "name": "3 star",
+                "count": 60000
+            },
+            {
+                "name": "4 star",
+                "count": 120000
+            },
+            {
+                "name": "5 star",
+                "count": 120000
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Asana",
+        "companyName": "Asana Inc.",
+        "image": "https://i.ibb.co.com/Vp26Z944/asana.png",
+        "description": "Asana is a powerful work management platform that helps teams organize, track, and manage their projects efficiently. It allows users to create tasks, assign responsibilities, set deadlines, and monitor progress, making it ideal for team collaboration and productivity.",
+        "size": 70,
+        "reviews": 300000,
+        "ratingAvg": 4.6,
+        "downloads": 150000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10000
+            },
+            {
+                "name": "2 star",
+                "count": 15000
+            },
+            {
+                "name": "3 star",
+                "count": 40000
+            },
+            {
+                "name": "4 star",
+                "count": 100000
+            },
+            {
+                "name": "5 star",
+                "count": 135000
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Canva Docs",
+        "companyName": "Canva",
+        "image": "https://i.ibb.co.com/mrBDkVzh/canva-docs.jpg",
+        "description": "Canva Docs is a modern document creation tool that combines writing and design. It allows users to create visually engaging documents with rich media, collaboration features, and easy sharing options, making it ideal for creative teams and professionals.",
+        "size": 65,
+        "reviews": 250000,
+        "ratingAvg": 4.7,
+        "downloads": 120000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 8000
+            },
+            {
+                "name": "2 star",
+                "count": 12000
+            },
+            {
+                "name": "3 star",
+                "count": 30000
+            },
+            {
+                "name": "4 star",
+                "count": 80000
+            },
+            {
+                "name": "5 star",
+                "count": 120000
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Todoist",
+        "companyName": "Doist",
+        "image": "https://i.ibb.co.com/dwjDDnPp/todoist.png",
+        "description": "Todoist is a simple yet powerful task management app that helps users organize their daily tasks and projects. It offers features like task prioritization, reminders, and productivity tracking, making it perfect for personal and professional use.",
+        "size": 50,
+        "reviews": 400000,
+        "ratingAvg": 4.8,
+        "downloads": 200000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 5000
+            },
+            {
+                "name": "2 star",
+                "count": 10000
+            },
+            {
+                "name": "3 star",
+                "count": 30000
+            },
+            {
+                "name": "4 star",
+                "count": 100000
+            },
+            {
+                "name": "5 star",
+                "count": 255000
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Evernote",
+        "companyName": "Evernote Corp.",
+        "image": "https://i.ibb.co.com/JwR4fgKS/evernote.png",
+        "description": "Evernote is a note-taking and organization app that helps users capture ideas, create to-do lists, and store important information. With powerful search and synchronization features, it ensures your notes are always accessible across devices.",
+        "size": 75,
+        "reviews": 350000,
+        "ratingAvg": 4.5,
+        "downloads": 250000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20000
+            },
+            {
+                "name": "2 star",
+                "count": 30000
+            },
+            {
+                "name": "3 star",
+                "count": 60000
+            },
+            {
+                "name": "4 star",
+                "count": 120000
+            },
+            {
+                "name": "5 star",
+                "count": 120000
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Udemy",
+        "companyName": "Udemy Inc.",
+        "image": "https://i.ibb.co.com/9HPt2CJP/trello-rounded-logo-design-free-png.png",
+        "description": "Udemy is an online learning platform offering thousands of courses across various topics including programming, business, and personal development. It allows users to learn new skills at their own pace with expert instructors.",
+        "size": 80,
+        "reviews": 900000,
+        "ratingAvg": 4.6,
+        "downloads": 400000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 30000
+            },
+            {
+                "name": "2 star",
+                "count": 40000
+            },
+            {
+                "name": "3 star",
+                "count": 100000
+            },
+            {
+                "name": "4 star",
+                "count": 300000
+            },
+            {
+                "name": "5 star",
+                "count": 430000
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Behance",
+        "companyName": "Adobe",
+        "image": "https://i.ibb.co.com/7H9th41/behance.png",
+        "description": "Behance is a platform for creative professionals to showcase their work and discover new talent. It allows designers, photographers, and artists to build portfolios, connect with others, and gain inspiration.",
+        "size": 60,
+        "reviews": 200000,
+        "ratingAvg": 4.4,
+        "downloads": 100000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15000
+            },
+            {
+                "name": "2 star",
+                "count": 20000
+            },
+            {
+                "name": "3 star",
+                "count": 40000
+            },
+            {
+                "name": "4 star",
+                "count": 60000
+            },
+            {
+                "name": "5 star",
+                "count": 65000
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Medium",
+        "companyName": "Medium Corp.",
+        "image": "https://i.ibb.co.com/DftfFKm6/medium.png",
+        "description": "Medium is a publishing platform where writers and readers come together to share ideas and stories. It offers high-quality articles on technology, lifestyle, business, and more, making it a great place for knowledge sharing.",
+        "size": 55,
+        "reviews": 300000,
+        "ratingAvg": 4.5,
+        "downloads": 150000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15000
+            },
+            {
+                "name": "2 star",
+                "count": 20000
+            },
+            {
+                "name": "3 star",
+                "count": 50000
+            },
+            {
+                "name": "4 star",
+                "count": 100000
+            },
+            {
+                "name": "5 star",
+                "count": 115000
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Dribbble",
+        "companyName": "Dribbble LLC",
+        "image": "https://i.ibb.co.com/RkdtYF6P/dribbble-logo-dribbble-icon-free-free-vector.jpg",
+        "description": "Dribbble is a community for designers to showcase their creative work, discover inspiration, and connect with other professionals. It is widely used by UI/UX designers and creative artists worldwide.",
+        "size": 50,
+        "reviews": 150000,
+        "ratingAvg": 4.4,
+        "downloads": 80000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10000
+            },
+            {
+                "name": "2 star",
+                "count": 15000
+            },
+            {
+                "name": "3 star",
+                "count": 30000
+            },
+            {
+                "name": "4 star",
+                "count": 40000
+            },
+            {
+                "name": "5 star",
+                "count": 55000
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Skillshare",
+        "companyName": "Skillshare Inc.",
+        "image": "https://i.ibb.co.com/jFgmVNq/skill-share.jpg",
+        "description": "Skillshare is an online learning community offering thousands of classes in creative and professional skills. It provides project-based learning and helps users improve their creativity and knowledge.",
+        "size": 65,
+        "reviews": 250000,
+        "ratingAvg": 4.5,
+        "downloads": 120000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 12000
+            },
+            {
+                "name": "2 star",
+                "count": 18000
+            },
+            {
+                "name": "3 star",
+                "count": 50000
+            },
+            {
+                "name": "4 star",
+                "count": 90000
+            },
+            {
+                "name": "5 star",
+                "count": 80000
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Miro",
+        "companyName": "Miro",
+        "image": "https://i.ibb.co.com/qVs5mMR/miro.png",
+        "description": "Miro is an online collaborative whiteboard platform that enables teams to brainstorm, plan, and visualize ideas together. It supports real-time collaboration and is widely used for remote teamwork and creative planning.",
+        "size": 75,
+        "reviews": 180000,
+        "ratingAvg": 4.7,
+        "downloads": 90000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 8000
+            },
+            {
+                "name": "2 star",
+                "count": 12000
+            },
+            {
+                "name": "3 star",
+                "count": 30000
+            },
+            {
+                "name": "4 star",
+                "count": 60000
+            },
+            {
+                "name": "5 star",
+                "count": 70000
+            }
+        ]
+    }
 ]
