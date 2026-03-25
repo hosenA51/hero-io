@@ -4,7 +4,7 @@
         "title": "Notion",
         "companyName": "Notion Labs",
         "image": "https://i.ibb.co.com/zTP1PyFj/Notion-app-logo.png",
-        "description": "Notion is an all-in-one productivity workspace designed to help individuals and teams organize their work efficiently. It allows users to take notes, manage tasks, create databases, and collaborate in real-time. With its flexible structure and customizable templates, Notion is widely used for project management, documentation, and personal productivity.",
+        "description": "Notion is a monumental shift in the paradigm of personal and enterprise productivity, functioning as a modular 'all-in-one' workspace that consolidates notes, tasks, databases, and collaborative tools into a single, highly customizable interface. Founded by Notion Labs, the platform’s core philosophy is built upon the concept of 'blocks.' Every piece of content—be it a paragraph of text, an image, a checklist, a code snippet, or an embedded video—is treated as an individual block that can be moved, transformed, and nested with total freedom. This atomic design allows users to build their own systems from scratch rather than being forced into a rigid, pre-defined workflow. For the individual user, Notion serves as a digital brain. It is widely used for 'Second Brain' methodologies, where users capture ideas, archive web articles via the Notion Web Clipper, and organize their personal lives through sophisticated habit trackers and journals. The power of Notion truly reveals itself through its database engine. Unlike traditional spreadsheets, Notion databases allow for multiple views of the same data: you can toggle between a Table, a Kanban board, a Gallery, a Calendar, a Timeline, or a List view with a single click. This flexibility makes it an industry standard for project management. Teams use it to build comprehensive internal wikis, ensuring that company knowledge is documented and easily searchable. In recent years, Notion has integrated cutting-edge artificial intelligence with 'Notion AI,' which assists users in summarizing long documents, brainstorming content ideas, fixing grammar, and even drafting entire essays or emails within the workspace. The collaboration features are equally robust; multiple team members can edit the same page in real-time, leave comments, tag colleagues, and set granular permission levels to ensure data security. Furthermore, Notion’s API allows it to sync with thousands of other apps like Slack, GitHub, and Google Drive, making it a central hub for any digital ecosystem. Its template gallery is a thriving community-driven marketplace where experts share their setups for everything from university semester planning to startup fundraising trackers. Despite its immense power, Notion maintains a clean, minimalist aesthetic that reduces cognitive load, allowing users to focus on deep work. While there is a learning curve associated with mastering its more advanced features like 'Relations' and 'Rollups' (which allow databases to talk to one another), the investment in learning Notion often results in a massive leap in organizational efficiency. Whether you are a student trying to ace your finals, a freelancer managing multiple clients, or a CTO scaling a multi-national corporation, Notion provides the structural integrity and creative flexibility needed to turn chaos into clarity. It is more than just an app; it is a canvas for your thoughts and a cockpit for your career.",
         "size": 80,
         "reviews": 500000,
         "ratingAvg": 4.7,
@@ -37,7 +37,7 @@
         "title": "Duolingo",
         "companyName": "Duolingo Inc.",
         "image": "https://i.ibb.co.com/pqjrR4K/duolingo-logo-png-seeklogo-458347.png",
-        "description": "Duolingo is a fun and interactive language-learning platform that helps users learn new languages through gamified lessons. It offers bite-sized exercises, speaking practice, and real-time feedback, making language learning engaging and effective for beginners and advanced learners alike.",
+        "description": "Duolingo is the world’s most popular language-learning platform, fundamentally transforming how millions of people approach linguistics through the power of gamification and behavioral science. Launched with the mission to make education free and accessible to everyone, Duolingo offers courses in over 40 languages, ranging from global giants like Spanish and French to endangered languages like Hawaiian and Navajo, and even fictional ones like High Valyrian. The 'Duolingo Method' is rooted in bite-sized lessons that feel more like a mobile game than a traditional classroom. Users earn experience points (XP), climb competitive leagues, and unlock 'lingots' or 'gems' to spend on virtual items. The most iconic feature is the 'Streak'—a counter that tracks how many consecutive days a user has practiced. This psychological trigger creates a powerful incentive for daily engagement, turning language learning into a sustainable long-term habit. The app’s mascot, Duo the Owl, has become a cultural phenomenon, known for his persistent and sometimes humorously aggressive notifications that remind users to keep their streaks alive. Under the hood, Duolingo uses a sophisticated AI-driven algorithm called 'BirdBrain' to personalize lessons. It analyzes every response from millions of users to determine which words you are struggling with, implementing 'Spaced Repetition' to ensure that vocabulary is reviewed just as it is about to be forgotten. The curriculum covers listening, speaking, reading, and writing, often using quirky and memorable sentences to keep the content engaging. Beyond the core app, the company has expanded its ecosystem to include the 'Duolingo English Test' (a high-stakes, affordable English proficiency exam accepted by thousands of universities), 'Duolingo ABC' for childhood literacy, and new modules for Mathematics and Music. For those seeking an ad-free experience with extra perks, 'Super Duolingo' provides unlimited 'hearts' (lives), allowing for mistake-heavy practice without interruptions. Duolingo also fosters a sense of community through its 'Friends Quest' and global leaderboards, where users can compete against people from all over the world. The platform is grounded in the belief that everyone should have access to high-quality education regardless of their economic status, which is why the entire core curriculum remains free. This accessibility has made it a vital tool for refugees, students in developing nations, and hobbyists alike. Research has shown that spending time on Duolingo can be remarkably effective; several studies suggest that 34 hours of Duolingo can be equivalent to a full semester of university-level language study. By blending advanced cognitive science with an addictive gaming interface, Duolingo has not only lowered the barrier to entry for learning a new language but has also turned a daunting task into a source of daily joy and personal growth for over 500 million users worldwide.",
         "size": 60,
         "reviews": 1200000,
         "ratingAvg": 4.8,
@@ -70,7 +70,7 @@
         "title": "Figma",
         "companyName": "Figma Inc.",
         "image": "https://i.ibb.co.com/MDRv2nRM/figma.png",
-        "description": "Figma is a powerful cloud-based design and prototyping tool used by designers and developers to create user interfaces and collaborate in real time. It allows teams to design, prototype, and share their work seamlessly, making it a popular choice for UI/UX design.",
+        "description": "Figma has fundamentally redefined the landscape of digital product design, emerging as the undisputed industry standard for UI/UX professionals worldwide. Founded on the revolutionary idea that design tools should be accessible directly in the browser, Figma broke the barriers of traditional, heavy desktop software like Adobe Photoshop or Sketch. This browser-based architecture, powered by WebAssembly (Wasm), ensures that performance is lightning-fast, regardless of the operating system being used. The cornerstone of Figma’s success is its 'multi-player' collaboration feature. Much like a Google Doc, multiple designers, stakeholders, and developers can occupy the same canvas simultaneously, seeing each other's cursors move in real-time. This eliminated the 'versioning nightmare' where designers had to constantly save and share files like 'final_v2_new.sketch.' Now, the URL is the single source of truth. Beyond collaboration, Figma’s design engine is incredibly powerful. It introduced 'Vector Networks,' a more flexible way of manipulating points and paths compared to traditional Bézier curves. One of its most beloved features is 'Auto Layout,' which allows designers to create responsive components that grow or shrink based on their content—mimicking the way flexbox works in CSS. This makes the handoff from design to development significantly smoother. Furthermore, Figma’s 'Components' and 'Variants' systems allow teams to build massive, scalable design systems. When a master component is updated, every instance of that component across the entire project updates instantly. For prototyping, Figma offers advanced transitions, smart-animate features, and variables that allow designers to create high-fidelity, interactive flows that feel like a real app. This is crucial for user testing and stakeholder buy-in. To bridge the gap between design and code, Figma recently introduced 'Dev Mode,' a dedicated space for developers to inspect designs, grab CSS/Swift/Kotlin snippets, and link designs directly to GitHub or Jira. The ecosystem is further enriched by a vast community marketplace where users share plugins, widgets, and design kits. Whether it is automating repetitive tasks with a plugin or using 'FigJam'—Figma’s online whiteboard—for early-stage brainstorming and user flow mapping, the platform covers the entire product development lifecycle. From tiny startups to tech giants like Google, Microsoft, and Airbnb, Figma has become the collaborative heart of the modern product team. Its commitment to transparency, community, and technical excellence ensures that it remains at the forefront of the design world, constantly evolving with features like AI-assisted design and deeper prototyping logic to meet the demands of tomorrow's creators.",
         "size": 75,
         "reviews": 400000,
         "ratingAvg": 4.7,
@@ -103,7 +103,7 @@
         "title": "Trello",
         "companyName": "Atlassian",
         "image": "https://i.ibb.co.com/Vcvcs58d/udemy.png",
-        "description": "Trello is a visual project management tool that helps teams organize tasks and workflows using boards, lists, and cards. It is simple yet powerful, making it ideal for managing projects, tracking progress, and collaborating effectively.",
+        "description": "Trello is the ultimate visual project management tool that has popularized the Kanban methodology for a global audience. Built on the simple yet profound concept of 'Boards, Lists, and Cards,' Trello provides an immediate, bird's-eye view of any project, whether you are planning a massive software release, organizing a wedding, or managing a content editorial calendar. Each Board represents a project; within that board, you create Lists (usually representing stages of a workflow like 'To Do,' 'Doing,' and 'Done'); and within those lists, you place Cards. These cards are the lifeblood of Trello. They are more than just sticky notes; a single card can hold a wealth of information including detailed descriptions, checklists with progress bars, due dates, attachments from Google Drive or Dropbox, and a comment section for team discussions. The tactile, drag-and-drop nature of Trello makes it incredibly satisfying and intuitive to use. One of Trello’s greatest strengths is its flexibility. It does not force a specific structure on the user; instead, it provides a blank canvas that can be adapted to any process. To enhance this flexibility, Trello offers 'Power-Ups'—integrations that turn a board into a powerhouse of productivity. You can sync with Slack for notifications, connect to Jira for developer tracking, or use a Calendar Power-Up to see all your deadlines in a monthly view. For repetitive tasks, Trello features 'Butler,' a built-in, no-code automation engine. With Butler, you can set up rules like 'when a card is moved to Done, check off all items in the checklist and remove the due date,' saving hours of manual admin work. Acquired by Atlassian in 2017, Trello has continued to scale, now serving millions of users from individual freelancers to Fortune 500 companies. Its mobile app is seamlessly synced with the web version, allowing users to move cards and stay updated while on the go. The 'labels' feature allows for easy filtering, so you can quickly see which tasks are high priority or which team member is responsible for what. Trello’s visual clarity reduces the cognitive load of project management, helping teams avoid 'tab fatigue' and stay focused on execution. Because it is so easy to start using, it often becomes the gateway tool for organizations moving toward agile workflows. It bridges the gap between complex enterprise software and simple to-do lists, offering a middle ground that is both powerful and approachable. In an era of remote work and digital fragmentation, Trello acts as a central hub where everyone can see what needs to be done, who is doing it, and when it will be finished, fostering transparency and accountability across the board.",
         "size": 55,
         "reviews": 350000,
         "ratingAvg": 4.5,
@@ -136,7 +136,7 @@
         "title": "Grammarly",
         "companyName": "Grammarly Inc.",
         "image": "https://i.ibb.co.com/SXNvBWx3/grammarly-logo-brandlogos-net-kgxni-300x300.png",
-        "description": "Grammarly is an advanced writing assistant that helps users improve their grammar, spelling, and writing clarity. It provides real-time suggestions and tone detection, making it an essential tool for students, professionals, and content creators.",
+        "description": "Grammarly has evolved from a basic spell-check tool into a sophisticated, AI-powered communication assistant that helps over 30 million people write with confidence every day. It goes far beyond the red squiggly lines of traditional word processors. Grammarly’s engine utilizes advanced Natural Language Processing (NLP) and Deep Learning algorithms to understand the context, intent, and tone of your writing. Whether you are drafting a professional email, a university essay, or a casual social media post, Grammarly provides real-time suggestions to improve grammar, punctuation, and spelling. However, its true value lies in its 'Clarity' and 'Engagement' suggestions. It identifies wordy sentences and suggests more concise alternatives, helping you get your point across without fluff. It also flags passive voice, repetitive vocabulary, and awkward phrasing. One of its most innovative features is the 'Tone Detector,' which uses AI to analyze your word choice and tell you how you likely sound to your reader—whether that’s 'friendly,' 'confident,' 'urgent,' or 'formal.' This is an essential tool for avoiding misunderstandings in digital communication. For students and researchers, Grammarly’s built-in plagiarism checker scans billions of web pages and ProQuest databases to ensure academic integrity and proper citation. The platform is incredibly versatile, existing as a browser extension (Chrome, Safari, Edge), a desktop application for Mac and Windows, and a mobile keyboard for iOS and Android. This ensures that whether you are typing in Gmail, LinkedIn, Microsoft Word, or Slack, your writing is always polished. Recently, the company launched 'GrammarlyGO,' a generative AI feature that can help you brainstorm ideas, rewrite entire paragraphs for a different tone, or even draft a reply to an email based on a few prompts. For businesses, Grammarly for Enterprise offers a 'Style Guide' feature, allowing companies to ensure that all employees use a consistent brand voice and terminology. It acts as a 24/7 writing coach, helping non-native English speakers bridge the language gap and helping seasoned professionals fine-tune their prose. By reducing errors and increasing clarity, Grammarly doesn't just fix writing; it empowers people to communicate their ideas more effectively and build stronger connections through the written word. It is an indispensable partner in the modern digital age, where writing is the primary way we interact with the world.",
         "size": 50,
         "reviews": 600000,
         "ratingAvg": 4.6,
@@ -169,7 +169,7 @@
         "title": "Khan Academy",
         "companyName": "Khan Academy",
         "image": "https://i.ibb.co.com/N2B3kHrb/images.jpg",
-        "description": "Khan Academy is a free educational platform offering lessons in math, science, programming, and more. It provides video tutorials, exercises, and personalized learning dashboards to help users learn at their own pace.",
+        "description": "Khan Academy is a revolutionary non-profit educational organization that has redefined the boundaries of global learning. Founded by Sal Khan in 2008, it began as a simple series of YouTube videos intended to tutor his cousins in math. Today, it stands as a titan of the EdTech industry, providing a free, world-class education for anyone, anywhere. The platform’s core philosophy is built upon the 'Mastery Learning' model. Unlike traditional schooling where a class moves forward regardless of whether every student has understood the material, Khan Academy allows learners to progress at their own pace. Students only move to a more advanced topic once they have demonstrated a 100% mastery of the current one, preventing the 'knowledge gaps' that often lead to failure in later years. The curriculum is staggeringly vast, covering everything from basic addition to advanced multi-variable calculus, organic chemistry, microeconomics, and world history. Each topic is accompanied by thousands of interactive practice exercises that provide instant feedback and step-by-step hints. For educators, Khan Academy offers a powerful teacher dashboard that provides real-time data on student progress, allowing teachers to identify exactly which students are struggling and with which specific concepts. This enables a 'flipped classroom' model where students watch instructional videos at home and spend class time on active problem-solving with the teacher. In 2024 and 2025, the platform leaped into the future with 'Khanmigo,' an AI-powered tutor built on GPT-4. Unlike standard AI that simply gives answers, Khanmigo acts as a Socratic guide, asking probing questions to lead the student to the answer themselves. This mimics the experience of a high-quality human tutor at a fraction of the cost. Beyond academics, Khan Academy partners with institutions like NASA, The Museum of Modern Art, and MIT to provide specialized content. The platform is translated into dozens of languages, ensuring that a child in a remote village in India has the same access to high-quality physics lessons as a student in Silicon Valley. By removing the financial barriers to education, Khan Academy is not just an app; it is a global movement dedicated to the idea that education is a fundamental human right. It empowers millions of self-learners, helps adults return to school, and provides a safety net for students who feel left behind by the traditional system. Its impact on global literacy and STEM proficiency is immeasurable, making it one of the most significant social enterprises of the 21st century.",
         "size": 70,
         "reviews": 500000,
         "ratingAvg": 4.8,
@@ -201,8 +201,8 @@
         "id": 7,
         "title": "Airbnb",
         "companyName": "Airbnb Inc.",
-        "image": "https://i.ibb.co.com/2xrW698/airbnb-logo.png",
-        "description": "Airbnb allows users to book unique accommodations and experiences around the world. From apartments to villas, it offers a wide range of options for travelers looking for comfortable and affordable stays.",
+        "image": "https://images.seeklogo.com/logo-png/40/1/airbnb-logo-png_seeklogo-408555.png",
+        "description": "Airbnb has completely disrupted the global travel and hospitality industry, moving the world away from standardized hotel stays toward a more authentic, community-driven 'belong anywhere' experience. What started in 2008 as two roommates renting out an air mattress in their San Francisco apartment has grown into a massive ecosystem with millions of listings in nearly every country on Earth. The platform allows 'Hosts' to list their spare rooms, entire homes, or even unique structures like treehouses, castles, and yurts for travelers seeking a local experience. The genius of Airbnb lies in its trust-based marketplace. Through a robust system of double-blind reviews, government ID verifications, and secure payment processing, the platform has managed to make staying in a stranger’s house feel safe and reliable. For travelers, Airbnb offers diversity and value that hotels often cannot match. You can find a kitchen to cook in, a backyard for your pets, or a home office for remote work, often at a lower price point than a traditional suite. The 'Airbnb Experiences' feature further enriches travel by allowing locals to host activities—from cooking classes in Tuscany to street art tours in Berlin—giving tourists a deep dive into the culture of their destination. From an economic perspective, Airbnb has empowered millions of individuals to become micro-entrepreneurs, turning their greatest asset—their home—into a source of income. However, the company also focuses heavily on 'AirCover,' a comprehensive protection plan for both hosts and guests that covers everything from property damage to guest safety. In recent years, Airbnb has pivoted to support the 'digital nomad' lifestyle, introducing features for long-term stays and verified Wi-Fi speeds to cater to those who work while they travel. The app’s user interface is a masterclass in design, featuring high-quality photography, intuitive filters, and a seamless booking flow. Despite its challenges with local regulations and housing markets, Airbnb remains a cultural powerhouse that has fundamentally changed our relationship with space and community. It encourages cross-cultural exchange and supports local neighborhoods that are often overlooked by traditional tourism. By focusing on the human connection between guest and host, Airbnb has turned the act of traveling into an act of belonging, proving that the world is a much smaller and friendlier place when you have a local to welcome you home.",
         "size": 85,
         "reviews": 800000,
         "ratingAvg": 4.5,
@@ -235,7 +235,7 @@
         "title": "Slack",
         "companyName": "Slack Technologies",
         "image": "https://i.ibb.co.com/JFgzx7Ck/Slack-icon-2019-svg.png",
-        "description": "Slack is a team communication platform that enables real-time messaging, file sharing, and collaboration. It integrates with various tools, making it an essential workspace for modern teams.",
+        "description": "Slack is the digital headquarters that has effectively replaced internal email for modern organizations, fostering a culture of transparency, speed, and collaboration. Originally developed as an internal tool for a gaming company that didn't survive, Slack’s communication architecture proved so effective that it was launched as a standalone product in 2013 and eventually acquired by Salesforce in 2021. The platform is organized into 'Channels,' which are dedicated spaces for specific projects, topics, or departments. This organization ensures that the right people have access to the right information at the right time, preventing the siloed conversations that occur in private email threads. Slack’s search functionality is legendary; every message, file, and link is indexed, making it easy to find a decision made six months ago in seconds. Beyond text-based messaging, Slack has introduced 'Huddles' for quick audio and video check-ins that mimic the spontaneity of an office 'watercooler' conversation, and 'Clips' for sharing asynchronous video updates. One of Slack’s most powerful features is its 'App Directory,' which boasts over 2,500 integrations. By connecting tools like Jira, Google Calendar, Zoom, and Salesforce directly into the Slack interface, it becomes an 'operating system for work.' You can approve expense reports, track software bugs, and schedule meetings without ever leaving the app. For developers, Slack offers a rich API to build custom bots and automated workflows that handle repetitive tasks. The use of emoji reactions ('reacji') has also transformed workplace culture, allowing for quick feedback and a sense of personality and humor that is often missing from professional communication. Slack scales effortlessly from small five-person startups to massive enterprises like IBM and Amazon, offering robust security features like enterprise key management and HIPAA compliance. In the era of hybrid and remote work, Slack serves as the glue that keeps teams connected across time zones. It reduces the need for long, draining meetings by enabling real-time, lightweight discussions. By centralizing communication, file sharing, and app integrations into one searchable, beautiful interface, Slack doesn't just help people talk; it helps them get work done faster and with more alignment. It is the catalyst for a more open, agile, and human-centric way of working.",
         "size": 70,
         "reviews": 350000,
         "ratingAvg": 4.5,
@@ -268,7 +268,7 @@
         "title": "Asana",
         "companyName": "Asana Inc.",
         "image": "https://i.ibb.co.com/Vp26Z944/asana.png",
-        "description": "Asana is a powerful work management platform that helps teams organize, track, and manage their projects efficiently. It allows users to create tasks, assign responsibilities, set deadlines, and monitor progress, making it ideal for team collaboration and productivity.",
+        "description": "Asana is a premier work management platform that has redefined how teams orchestrate their work, moving far beyond the limitations of simple task lists to provide a comprehensive 'Work Graph' data model. Founded by Dustin Moskovitz (co-founder of Facebook) and Justin Rosenstein, Asana was built specifically to solve the 'work about work' problem—the endless meetings, emails, and status updates that drain productivity. The core of Asana is its ability to create clarity across an entire organization. It allows teams to map out every step of a project using various views including List, Board, Timeline (Gantt charts), and Calendar. This flexibility ensures that whether a team follows Agile, Scrum, or Waterfall methodologies, Asana can adapt to their specific needs. One of Asana's standout features is its 'Portfolios' and 'Goals' functionality. While individual tasks keep people focused on the day-to-day, Portfolios allow managers to monitor the health of multiple projects at once, and Goals link those projects to the company's high-level strategic objectives. This ensures that every employee understands how their daily effort contributes to the bigger picture. Asana’s automation engine, known as 'Rules,' allows users to automate repetitive manual tasks—such as triaging new requests, updating status fields, or notifying stakeholders—without writing a single line of code. The platform is also deeply integrated with the modern tech stack, connecting seamlessly with tools like Microsoft Teams, Salesforce, Adobe Creative Cloud, and Tableau. For enterprise-level organizations, Asana provides robust security features including Enterprise Key Management (EKM) and advanced admin controls to manage data at scale. The 'Workload' feature is particularly vital for managers, as it provides a visual representation of team capacity, helping to prevent burnout by redistributing tasks based on real-time availability. Asana’s user interface is celebrated for its 'celebrations'—delightful animations like flying unicorns or phoenixes that appear when you complete tasks—adding a layer of gamified joy to the professional environment. In the evolving world of remote and hybrid work, Asana serves as the 'single source of truth' that eliminates ambiguity and fosters accountability. It empowers teams to be more intentional about their time, focusing on high-impact work rather than getting lost in the noise of digital communication. By providing a structured environment where every task has an owner and a deadline, Asana doesn't just manage work; it empowers human potential through organized collaboration.",
         "size": 70,
         "reviews": 300000,
         "ratingAvg": 4.6,
@@ -301,7 +301,7 @@
         "title": "Canva Docs",
         "companyName": "Canva",
         "image": "https://i.ibb.co.com/mrBDkVzh/canva-docs.jpg",
-        "description": "Canva Docs is a modern document creation tool that combines writing and design. It allows users to create visually engaging documents with rich media, collaboration features, and easy sharing options, making it ideal for creative teams and professionals.",
+        "description": "Canva Docs is a groundbreaking evolution in the world of document creation, designed to bridge the gap between static text and dynamic visual storytelling. In a world where communication is increasingly visual, Canva Docs reimagines the traditional 'word processor' as a creative canvas. It allows anyone—regardless of design experience—to create documents that are as engaging as a professional presentation. The platform’s greatest strength lies in its seamless integration of Canva’s massive library of over 100 million high-quality photos, videos, graphics, and templates directly into a document. With 'Magic Media,' users can use AI to generate images or videos from a simple text prompt, ensuring that their documents are always unique and eye-catching. Another revolutionary feature is 'Magic Write,' an AI-powered writing assistant that helps users brainstorm ideas, draft content, and refine their tone in seconds. This makes Canva Docs an essential tool for marketers, small business owners, and creative professionals who need to produce high-impact content quickly. Unlike traditional PDFs or Word files that look awkward on mobile screens, Canva Docs are 'mobile-responsive' by design. This means the layout automatically adjusts to look perfect on any device, whether it's a smartphone, tablet, or desktop. Collaboration is at the heart of the experience; teams can work together in real-time, leave comments, and use 'Canva Insights' to see who has viewed their document and how they interacted with it. Perhaps the most impressive feature is 'Doc to Deck,' which allows you to transform an entire document into a polished presentation with a single click, saving hours of manual formatting. For those who need to present data, Canva Docs offers beautiful, interactive charts and data visualizations that can be customized to match any brand’s aesthetic. The platform also supports 'Embedded Designs,' meaning you can drop a Canva social media post or video directly into your doc, and it remains interactive. By focusing on the intersection of design and communication, Canva Docs is challenging the status quo of office software, proving that professional documentation doesn't have to be boring. It empowers users to express their ideas with more than just words, turning every report, proposal, and newsletter into a visual experience that captures attention and drives results.",
         "size": 65,
         "reviews": 250000,
         "ratingAvg": 4.7,
@@ -334,7 +334,7 @@
         "title": "Todoist",
         "companyName": "Doist",
         "image": "https://i.ibb.co.com/dwjDDnPp/todoist.png",
-        "description": "Todoist is a simple yet powerful task management app that helps users organize their daily tasks and projects. It offers features like task prioritization, reminders, and productivity tracking, making it perfect for personal and professional use.",
+        "description": "Todoist is widely regarded as the gold standard of task management apps, known for its elegant simplicity and powerful performance across every imaginable platform. Developed by Doist, the app is built on a 'minimalist' philosophy that aims to help users clear their minds by capturing tasks as quickly as possible. The hallmark of Todoist is its 'Natural Language Processing' (NLP) engine. You can type 'Gym every Monday and Friday at 6pm #SelfCare' and the app will instantly recognize the recurring date, time, and project category, setting everything up without you needing to click a single dropdown menu. This speed is critical for people who live busy, high-pressure lives. Todoist is also a favorite for fans of the 'Getting Things Done' (GTD) methodology, offering features like nested tasks, sub-projects, and labels that allow for sophisticated organization. To keep users motivated, Todoist incorporates a unique gamification system called 'Todoist Karma.' As you complete tasks and reach your daily and weekly goals, you earn Karma points, moving through levels from 'Beginner' to 'Enlightened.' This provides a tangible sense of progress and encourages long-term productivity habits. For power users, the 'Filters' feature allows you to create custom views of your work—for example, showing only high-priority tasks that are due today and belong to your 'Work' project. Collaboration is equally seamless; you can share projects with family members, friends, or colleagues, delegate tasks, and discuss details in the comments. Todoist’s cross-platform synchronization is nearly instantaneous, whether you are using the Apple Watch app, the web version, the mobile app, or the browser extension. It also integrates deeply with over 100 other tools including Google Calendar, Amazon Alexa, and IFTTT. For those who prefer visual organization, Todoist offers a 'Boards' view (Kanban style), allowing you to drag tasks through different stages of a workflow. The 'Pro' and 'Business' tiers offer additional features like reminders, automated backups, and team billing. In a world full of distractions, Todoist acts as a quiet, reliable assistant that remembers everything so you don't have to. It reduces 'Zeigarnik Effect'—the psychological stress caused by unfinished tasks—by giving you a trusted place to store every idea and obligation. By combining intuitive design with deep technical power, Todoist helps millions of people worldwide take control of their time, focus on what matters, and find more balance in their daily lives.",
         "size": 50,
         "reviews": 400000,
         "ratingAvg": 4.8,
@@ -365,79 +365,79 @@
     {
         "id": 12,
         "title": "Evernote",
-        "companyName": "Evernote Corp.",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9FnX3R2mFl2Uo6fgxQfErjC0SrxP2x9-eyw&s",
-        "description": "Evernote is a note-taking and organization app that helps users capture ideas, create to-do lists, and store important information. With powerful search and synchronization features, it ensures your notes are always accessible across devices.",
-        "size": 75,
-        "reviews": 350000,
+        "companyName": "Bending Spoons",
+        "image": "https://cdn-icons-png.freepik.com/512/3488/3488413.png",
+        "description": "Evernote is often referred to as the pioneer of the digital note-taking revolution, a title it has earned over nearly two decades of being the world's premier 'External Brain.' Founded in 2007 by Stepan Pachikov, who was fascinated by the mechanics of human memory, Evernote was built on the premise that our brains are great for having ideas, but terrible at holding them. In 2022, the company was acquired by Bending Spoons, which catalyzed a massive technical modernization culminating in the landmark 'Evernote v11' release in early 2026. This latest era of Evernote is defined by its transition from a simple storage locker for snippets into a highly intelligent productivity hub powered by generative AI. The core architecture of Evernote is built around 'Notebooks' and 'Notes,' but its real power lies in its unparalleled search capabilities. Evernote can index and search text within images, PDFs, and even handwritten notes through advanced Optical Character Recognition (OCR). This means if you take a photo of a whiteboard or a wine label, you can find it months later just by typing a word that appeared in the image. The 'Web Clipper' browser extension remains the industry's gold standard, allowing users to save entire web pages, simplified articles, or screenshots directly into their notebooks without the clutter of ads or navigation menus. In 2025 and 2026, Evernote introduced 'Semantic Search,' allowing users to ask natural language questions like, 'What were the main takeaways from the marketing meeting last Tuesday?' and receive precise answers based on their archived notes. Another groundbreaking feature is the 'AI Meeting Note Taker,' which can transcribe live recordings, distinguish between speakers, and automatically generate a summary with action items synced to Evernote's built-in 'Tasks' system. The 'Home' dashboard serves as a personalized command center, featuring customizable widgets for your most recent notes, pinned shortcuts, and a 'Calendar' integration that links your Google or Outlook schedule directly to your notes. This allows you to create a pre-formatted meeting note with a single click as soon as your meeting begins. Despite the rise of competitors, Evernote's 'multi-platform' reliability is its greatest asset; it syncs nearly instantaneously across Windows, Mac, iOS, Android, and the Web. For professionals, the 'Professional' and 'Teams' tiers offer advanced features like offline notebook access, massive monthly upload limits, and 'Boolean Search' for complex data retrieval. The technical shift in v11 significantly improved the backend 'Sync Engine,' solving the long-standing 'conflicting changes' issue that plagued older versions. By focusing on deep AI integration while maintaining its legacy of being a robust, secure, and permanent digital archive, Evernote continues to be the indispensable choice for researchers, writers, and executives who need to organize a lifetime of information. It is more than just a place to write; it is a sophisticated system for turning raw information into organized, actionable knowledge.",
+        "size": 95,
+        "reviews": 1600000,
         "ratingAvg": 4.5,
-        "downloads": 250000000,
+        "downloads": 100000000,
         "ratings": [
             {
                 "name": "1 star",
-                "count": 20000
+                "count": 100000
             },
             {
                 "name": "2 star",
-                "count": 30000
+                "count": 150000
             },
             {
                 "name": "3 star",
-                "count": 60000
+                "count": 250000
             },
             {
                 "name": "4 star",
-                "count": 120000
+                "count": 400000
             },
             {
                 "name": "5 star",
-                "count": 120000
+                "count": 700000
             }
         ]
     },
     {
         "id": 13,
         "title": "Udemy",
-        "companyName": "Udemy Inc.",
-        "image": "https://i.ibb.co.com/9HPt2CJP/trello-rounded-logo-design-free-png.png",
-        "description": "Udemy is an online learning platform offering thousands of courses across various topics including programming, business, and personal development. It allows users to learn new skills at their own pace with expert instructors.",
-        "size": 80,
-        "reviews": 900000,
+        "companyName": "Udemy Inc. (A Coursera Company)",
+        "image": "https://i.ibb.co.com/Vcvcs58d/udemy.png",
+        "description": "Udemy is the world’s largest and most diverse online learning marketplace, a platform that has democratized education by allowing anyone to teach and anyone to learn. Launched in 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar, Udemy was born out of Bali's personal struggle to access quality education while growing up in a small village in Turkey. This mission of accessibility has seen the platform grow to host over 250,000 courses in more than 75 languages, serving over 80 million learners worldwide. In a historic move in late 2025, Coursera announced the acquisition of Udemy, creating an unparalleled global upskilling giant by early 2026. Unlike academic-focused platforms like edX, Udemy excels in practical, skill-based learning. Whether it is mastering Python programming, learning the intricacies of digital marketing, or even niche hobbies like bread baking or sourdough fermentation, Udemy has a course for it. The marketplace model is unique because it allows industry experts and practitioners—rather than just university professors—to share their real-world knowledge. This ensures that the content is often more current than traditional textbooks, especially in fast-moving fields like technology and AI. For instructors, Udemy provides a 'Course Dashboard' with sophisticated analytics, promotion tools, and AI-assisted content creation features that help script and edit videos. For learners, the experience is highly personalized. In 2026, the 'AI Learning Path' feature was introduced, which analyzes a user's career goals and current skill gaps to curate a custom sequence of lessons from various courses. 'Udemy Business' has become a cornerstone of the company, with over 60% of Fortune 500 companies using the platform to upskill their employees through a curated subscription model. The mobile app is designed for 'learning on the go,' offering offline downloads, a 'podcast mode' for audio-only learning, and a 'Notes' feature that timestamps your thoughts directly to the video timeline. One of Udemy’s most popular features is its frequent 'Flash Sales,' which make high-quality, 20-hour courses available for as little as $10 to $15, making it the most cost-effective way to gain professional certifications. The platform also includes interactive elements like coding exercises, practice tests, and Q&A forums where students can interact directly with instructors. By removing the gatekeepers of traditional academia, Udemy has created a meritocratic system where the best teachers rise to the top based on student reviews and engagement. It is a vital engine for the 'lifelong learning' economy, providing the tools necessary for individuals to pivot careers and stay competitive in an increasingly automated world. As it integrates with Coursera’s academic rigor in 2026, Udemy remains the go-to destination for rapid, affordable, and practical skill acquisition.",
+        "size": 65,
+        "reviews": 4500000,
         "ratingAvg": 4.6,
-        "downloads": 400000000,
+        "downloads": 50000000,
         "ratings": [
             {
                 "name": "1 star",
-                "count": 30000
+                "count": 200000
             },
             {
                 "name": "2 star",
-                "count": 40000
-            },
-            {
-                "name": "3 star",
-                "count": 100000
-            },
-            {
-                "name": "4 star",
                 "count": 300000
             },
             {
+                "name": "3 star",
+                "count": 800000
+            },
+            {
+                "name": "4 star",
+                "count": 1200000
+            },
+            {
                 "name": "5 star",
-                "count": 430000
+                "count": 2000000
             }
         ]
     },
     {
         "id": 14,
         "title": "Behance",
-        "companyName": "Adobe",
-        "image": "https://i.ibb.co.com/7H9th41/behance.png",
-        "description": "Behance is a platform for creative professionals to showcase their work and discover new talent. It allows designers, photographers, and artists to build portfolios, connect with others, and gain inspiration.",
-        "size": 60,
-        "reviews": 200000,
-        "ratingAvg": 4.4,
-        "downloads": 100000000,
+        "companyName": "Adobe Inc.",
+        "image": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNTMzLW5lb24tMDI0LmpwZw.jpg",
+        "description": "Behance is the world's leading social media platform for the creative industry, functioning as a digital gallery, a networking hub, and a career launchpad for millions of artists and designers. Founded in 2006 and later acquired by Adobe in 2012, Behance is the heartbeat of the Adobe Creative Cloud ecosystem. It allows creators to showcase their 'Portfolios'—which are not just flat images, but comprehensive 'Project Pages' that tell the story of a creative process through sketches, videos, 3D models, and detailed descriptions. This focus on the 'how' behind the 'what' makes Behance a favorite for recruiters and creative directors looking for top-tier talent in graphic design, illustration, photography, UI/UX, and motion graphics. The platform is deeply integrated with Adobe tools; a designer can finish a project in Photoshop, Illustrator, or Premiere Pro and publish it directly to Behance with a single click. In 2025 and 2026, Behance has heavily leaned into the generative AI era with 'Adobe Firefly' integrations. Creators can now tag their work as 'AI-assisted' and use new AI-powered 'Project Layout' tools to automatically generate beautiful, responsive portfolio pages from raw assets. One of Behance's most impactful features is the 'Curated Galleries.' Every day, a team of expert curators selects the most exceptional work across various fields to be featured on the 'Best of Behance' front page, giving emerging artists unprecedented global exposure. The 'Work Experience' and 'Jobs' board is another critical component, connecting freelancers and full-time professionals with opportunities at companies like Nike, Apple, and Google. Behance also fosters community through its 'Livestreams,' where world-class artists share their screens and techniques in real-time, and the 'Appreciations' (likes) and 'Follows' system that builds a creator's social proof. For subscribers, the 'Behance Pro' tier offers advanced analytics to see who is viewing your work, the ability to build a custom portfolio website via 'Adobe Portfolio' that syncs with your Behance projects, and 'Source Files' sharing, which allows creators to monetize their assets by selling project files directly to other designers. The 'Moodboards' feature allows users to save and organize inspiration from across the platform, making it a vital tool for the research phase of any creative project. In an age where digital presence is everything, Behance provides the professional infrastructure that turns a creative hobby into a global career. It is more than just a portfolio site; it is a global stage where the world’s visual culture is defined, critiqued, and celebrated. Whether you are a student looking for inspiration or a seasoned professional looking for your next big client, Behance is the definitive destination for all things creative.",
+        "size": 55,
+        "reviews": 700000,
+        "ratingAvg": 4.7,
+        "downloads": 10000000,
         "ratings": [
             {
                 "name": "1 star",
@@ -445,11 +445,77 @@
             },
             {
                 "name": "2 star",
-                "count": 20000
+                "count": 25000
             },
             {
                 "name": "3 star",
-                "count": 40000
+                "count": 60000
+            },
+            {
+                "name": "4 star",
+                "count": 200000
+            },
+            {
+                "name": "5 star",
+                "count": 400000
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Medium",
+        "companyName": "A Medium Corporation",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL7QK5MxOVub3XOl-M8i2l-EPP-t-I4IQm5g&s",
+        "description": "Medium is a premium digital publishing platform that has redefined the landscape of online writing by prioritizing substance over clicks and quality over virality. Launched in 2012 by Evan Williams (co-founder of Twitter and Blogger), Medium was envisioned as a space for 'the smart stuff'—a place where experts, storytellers, and thinkers could share long-form ideas without the distractions of traditional social media. In 2026, Medium has solidified its stance as the ultimate antidote to 'AI-generated slop,' implementing strict verification systems to ensure that readers are engaging with authentic human lived experiences. The platform’s architecture is beautifully minimalist, offering a distraction-free environment that focuses entirely on the typography and the power of the written word. One of its most significant innovations is the 'Medium Partner Program,' which allows writers to earn money based on the engagement of paying members. This model flips the traditional ad-based internet on its head; instead of selling user attention to advertisers, Medium uses subscription revenue to support creators directly. The 'Read Ratio'—a metric that tracks how many people actually finish an article—is the platform's North Star, rewarding depth and clarity. In 2025 and 2026, Medium introduced 'Signal Quality' algorithms, which use predictive modeling to identify high-authority content from subject matter experts before it even goes viral. Whether it is a software engineer detailing a complex system migration, a doctor explaining a new medical breakthrough, or a common person sharing a vulnerable life lesson, Medium connects these voices to a global audience of hungry learners. The platform also hosts numerous 'Publications'—curated digital magazines within Medium—that act as niche hubs for specific topics like data science, philosophy, or entrepreneurship. For readers, the personalized 'Daily Digest' and 'Listen' features (which use high-quality neural voices to read articles aloud) make it easy to stay informed during a commute. Medium isn't just a blogging site; it is a global intellectual community where ideas are stress-tested, nuanced perspectives are celebrated, and the world’s collective wisdom is archived for the next generation. In an era of misinformation, Medium remains a trusted sanctuary for the truth.",
+        "size": 45,
+        "reviews": 900000,
+        "ratingAvg": 4.6,
+        "downloads": 50000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20000
+            },
+            {
+                "name": "2 star",
+                "count": 30000
+            },
+            {
+                "name": "3 star",
+                "count": 80000
+            },
+            {
+                "name": "4 star",
+                "count": 250000
+            },
+            {
+                "name": "5 star",
+                "count": 520000
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Dribbble",
+        "companyName": "Dribbble Holdings Ltd.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1boukDZ1rbl6A9k9pg4Tp_aadnX6LrTOIKw&s",
+        "description": "Dribbble is the world's most influential design portfolio and networking platform, often described as 'show and tell' for the world's best designers. Since its inception in 2009, it has functioned as a massive community of UI/UX designers, illustrators, brand artists, and motion designers who share small screenshots of their work-in-progress, known as 'Shots.' This bite-sized approach allows for quick inspiration and peer feedback, making it an essential daily destination for anyone in the creative industry. By 2026, Dribbble has evolved into a full-service career platform for designers. The introduction of 'Dribbble Pro' and 'Pro Business' has given creators tools to build their own custom portfolio sites, get detailed analytics on their reach, and sell digital assets like icons, fonts, and UI kits directly to other professionals. One of the platform’s standout features is its 'Hiring' portal, which connects top-tier design talent with world-class companies like Shopify, Slack, and Google. Recruiters use Dribbble to browse curated 'Playbooks' of talent, making it the most direct path to a high-paying design job. In 2025, Dribbble integrated advanced AI-powered search tools that allow users to find inspiration based on color palettes, specific design styles (like 'Brutalist' or 'Glassmorphism'), and even device responsiveness. The 'Bento Grid' layout for profiles has become a signature feature in 2026, allowing designers to present their work in a highly structured and visually stunning way. Beyond portfolios, Dribbble offers 'Interactive Briefs'—a feature where the platform provides a fictional design challenge, and designers submit their solutions to be critiqued by industry veterans. This focus on continuous growth and professional feedback makes Dribbble more than just a gallery; it is a global academy for visual excellence. For many designers, getting 'drafted' into the Dribbble community is a rite of passage, and seeing their work on the 'Popular' page is the ultimate validation of their craft. In the fast-paced world of digital trends, Dribbble remains the definitive compass for where the visual world is heading next.",
+        "size": 52,
+        "reviews": 250000,
+        "ratingAvg": 4.7,
+        "downloads": 5000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 5000
+            },
+            {
+                "name": "2 star",
+                "count": 10000
+            },
+            {
+                "name": "3 star",
+                "count": 25000
             },
             {
                 "name": "4 star",
@@ -457,119 +523,20 @@
             },
             {
                 "name": "5 star",
-                "count": 65000
-            }
-        ]
-    },
-    {
-        "id": 15,
-        "title": "Medium",
-        "companyName": "Medium Corp.",
-        "image": "https://i.ibb.co.com/DftfFKm6/medium.png",
-        "description": "Medium is a publishing platform where writers and readers come together to share ideas and stories. It offers high-quality articles on technology, lifestyle, business, and more, making it a great place for knowledge sharing.",
-        "size": 55,
-        "reviews": 300000,
-        "ratingAvg": 4.5,
-        "downloads": 150000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 15000
-            },
-            {
-                "name": "2 star",
-                "count": 20000
-            },
-            {
-                "name": "3 star",
-                "count": 50000
-            },
-            {
-                "name": "4 star",
-                "count": 100000
-            },
-            {
-                "name": "5 star",
-                "count": 115000
-            }
-        ]
-    },
-    {
-        "id": 16,
-        "title": "Dribbble",
-        "companyName": "Dribbble LLC",
-        "image": "https://i.ibb.co.com/RkdtYF6P/dribbble-logo-dribbble-icon-free-free-vector.jpg",
-        "description": "Dribbble is a community for designers to showcase their creative work, discover inspiration, and connect with other professionals. It is widely used by UI/UX designers and creative artists worldwide.",
-        "size": 50,
-        "reviews": 150000,
-        "ratingAvg": 4.4,
-        "downloads": 80000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 10000
-            },
-            {
-                "name": "2 star",
-                "count": 15000
-            },
-            {
-                "name": "3 star",
-                "count": 30000
-            },
-            {
-                "name": "4 star",
-                "count": 40000
-            },
-            {
-                "name": "5 star",
-                "count": 55000
+                "count": 150000
             }
         ]
     },
     {
         "id": 17,
         "title": "Skillshare",
-        "companyName": "Skillshare Inc.",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKQfrh6xACRBf0X041fl9VToWBIhbqRUEOQ&s",
-        "description": "Skillshare is an online learning community offering thousands of classes in creative and professional skills. It provides project-based learning and helps users improve their creativity and knowledge.",
-        "size": 65,
-        "reviews": 250000,
-        "ratingAvg": 4.5,
-        "downloads": 120000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 12000
-            },
-            {
-                "name": "2 star",
-                "count": 18000
-            },
-            {
-                "name": "3 star",
-                "count": 50000
-            },
-            {
-                "name": "4 star",
-                "count": 90000
-            },
-            {
-                "name": "5 star",
-                "count": 80000
-            }
-        ]
-    },
-    {
-        "id": 18,
-        "title": "Miro",
-        "companyName": "Miro",
-        "image": "https://i.ibb.co.com/qVs5mMR/miro.png",
-        "description": "Miro is an online collaborative whiteboard platform that enables teams to brainstorm, plan, and visualize ideas together. It supports real-time collaboration and is widely used for remote teamwork and creative planning.",
-        "size": 75,
-        "reviews": 180000,
-        "ratingAvg": 4.7,
-        "downloads": 90000000,
+        "companyName": "Skillshare, Inc.",
+        "image": "https://i.pinimg.com/474x/66/ee/64/66ee64c00c1403e9d0aa804606c1619b.jpg",
+        "description": "Skillshare is a vibrant online learning community built on the philosophy of 'learning by doing,' specifically catering to the creative, entrepreneurial, and tech-focused individuals of the modern workforce. Unlike academic platforms that focus on theory, Skillshare is entirely project-based. Every class concludes with a hands-on project that allows the student to apply what they’ve learned—whether that’s designing a logo, editing a short film, or building a freelance business plan. The instructors on Skillshare are not just teachers; they are 'working professionals'—industry icons like graphic designer Aaron Draplin or YouTuber Marques Brownlee—who bring real-world, current insights to the classroom. In 2026, Skillshare has pioneered the 'Learning Path' model, which guides users through a curated sequence of classes to achieve specific career outcomes, such as 'Become a Professional Motion Designer' or 'Mastering the AI Content Workflow.' The platform’s 2026 update also introduced '1-on-1 Sessions,' allowing learners to book private video consultations with their favorite experts for portfolio reviews or career coaching. For teams, 'Skillshare for Teams' has become a vital upskilling tool, allowing organizations to provide their employees with unlimited access to over 30,000 classes. The 'Community Feed' is another core feature, where students can post their project progress, receive peer feedback, and follow other creators for daily inspiration. Skillshare’s mobile app is top-rated, offering offline viewing and a 'Cast to TV' feature that turns any living room into a high-end workshop. To keep motivation high, the platform uses 'Skillshare Badges' and certificates that can be shared directly to LinkedIn upon completion of a project. By bridging the gap between professional expertise and affordable education, Skillshare has become the go-to resource for anyone looking to bridge their skill gaps and stay relevant in the rapidly changing creative economy. It’s a place where curiosity is rewarded with practical ability, and where every learner is encouraged to 'create something today.'",
+        "size": 60,
+        "reviews": 350000,
+        "ratingAvg": 4.8,
+        "downloads": 10000000,
         "ratings": [
             {
                 "name": "1 star",
@@ -581,15 +548,48 @@
             },
             {
                 "name": "3 star",
-                "count": 30000
+                "count": 35000
             },
             {
                 "name": "4 star",
-                "count": 60000
+                "count": 85000
             },
             {
                 "name": "5 star",
-                "count": 70000
+                "count": 210000
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Miro",
+        "companyName": "RealtimeBoard, Inc.",
+        "image": "https://asset.brandfetch.io/idAnDTFapY/idDdbxxs3M.png",
+        "description": "Miro is the world’s leading online collaborative whiteboard platform, acting as the 'infinite canvas' where high-performance teams brainstorm, plan, and build together, regardless of where they are in the world. Originally founded as RealtimeBoard, Miro has become the industry standard for visual collaboration, especially in the era of hybrid and fully remote work. The platform’s greatest power lies in its 'Infinite Canvas,' which allows teams to host massive mind maps, complex user journeys, agile workflows, and detailed system architectures all in one space. By 2026, 'Miro AI' has become its defining feature, capable of synthesizing hundreds of scattered sticky notes into a coherent summary, generating entire diagrams from a simple text prompt, and even predicting project bottlenecks based on historical workflow data. Miro is not just a digital drawing board; it is a deeply integrated ecosystem with over 250 connections to tools like Jira, Figma, Asana, and Slack. This allows teams to pull data from their project management tools directly onto a board and push updates back instantly. For developers and product managers, Miro offers specialized 'Agile' features like Kanban boards, sprint planning templates, and PI planning frameworks that support large-scale enterprise coordination. The 'Smart Meeting' feature, enhanced in 2025, includes built-in video conferencing, breakout sessions, and anonymous voting, ensuring that every voice in a meeting is heard and that decisions are made based on data. Miro’s 'Presentation Mode' allows users to turn sections of their board into a dynamic, interactive slideshow that lets stakeholders zoom in on details during a live pitch. With security being a top priority, the 'Miro Enterprise' tier offers advanced data residency, 90-day version history, and row-level encryption, making it a trusted partner for 99% of the Fortune 100. From small startups mapping out their first MVP to global corporations managing multi-year transformation projects, Miro provides the visual clarity needed to turn complex ideas into reality. It is the virtual room where the world’s most innovative products are designed and brought to life.",
+        "size": 80,
+        "reviews": 200000,
+        "ratingAvg": 4.7,
+        "downloads": 15000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 4000
+            },
+            {
+                "name": "2 star",
+                "count": 6000
+            },
+            {
+                "name": "3 star",
+                "count": 15000
+            },
+            {
+                "name": "4 star",
+                "count": 45000
+            },
+            {
+                "name": "5 star",
+                "count": 130000
             }
         ]
     }

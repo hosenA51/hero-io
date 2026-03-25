@@ -7,12 +7,13 @@ import Home from './Home';
 import axios from 'axios';
 import Apps from './components/Apps';
 import ErrorPage from './components/ErrorPage';
+import AppDetails from './components/AppDetails';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Layout />,
-    errorElement: <Layout/>,
+    errorElement: <Layout />,
     children: [
       {
         index: true,
@@ -29,6 +30,15 @@ const router = createBrowserRouter([
         loader: async () => {
           const res = await axios.get("/apps.json");
           return res.data;
+        }
+      },
+      {
+        path: "/app-details/:id",
+        element: <AppDetails />,
+        loader: async ({params}) => {
+          const res = await axios.get("/apps.json");
+          const apps = res.data.find((app)=>app.id === parseInt(params.id))
+          return apps;
         }
       }
     ]
