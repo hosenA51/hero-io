@@ -5,8 +5,8 @@ import { Link } from 'react-router-dom';
 
 const AppCard = ({app}) => {
     return (
-        <Link to={`/app-details/${app.id}`}>
-        <div className='mx-auto'>
+        <Link className='mx-auto' to={`/app-details/${app.id}`}>
+        <div>
             <div className="card w-80 shadow-sm h-96 bg-white">
                 <figure className='px-6 pt-6'>
                     <img

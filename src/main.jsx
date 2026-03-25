@@ -8,6 +8,7 @@ import axios from 'axios';
 import Apps from './components/Apps';
 import ErrorPage from './components/ErrorPage';
 import AppDetails from './components/AppDetails';
+import Installation from './components/Installation';
 
 const router = createBrowserRouter([
   {
@@ -40,6 +41,10 @@ const router = createBrowserRouter([
           const apps = res.data.find((app)=>app.id === parseInt(params.id))
           return apps;
         }
+      },
+      {
+        path: "/installation",
+        element: <Installation/>
       }
     ]
   },

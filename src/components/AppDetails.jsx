@@ -12,13 +12,22 @@ import {
     ResponsiveContainer,
 } from "recharts";
 
+import { saveApp, isAppInstalled } from "../utils/localStorage"
+
 const AppDetails = () => {
     const app = useLoaderData();
-    const [installed, setInstalled] = useState(false);
+    const [installed, setInstalled] = useState(() => isAppInstalled(app.id));
 
     const chartData = [...app.ratings].reverse();
 
     const handleInstall = () => {
+        const success = saveApp(app);
+
+        if (!success) {
+            toast.error("Already Installed!");
+            return;
+        }
+
         setInstalled(true);
         toast.success("App Installed Successfully");
     };
