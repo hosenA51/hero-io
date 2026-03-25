@@ -6,24 +6,27 @@ import Layout from './Layout';
 import Home from './Home';
 import axios from 'axios';
 import Apps from './components/Apps';
+import ErrorPage from './components/ErrorPage';
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Layout/>,
+    element: <Layout />,
+    errorElement: <Layout/>,
     children: [
       {
         index: true,
-        element: <Home/>,
-        loader: async ()=>{
+        element: <Home />,
+        errorElement: <ErrorPage />,
+        loader: async () => {
           const res = await axios.get("/apps.json");
           return res.data;
         }
       },
       {
         path: "/apps",
-        element: <Apps/>,
-        loader: async ()=>{
+        element: <Apps />,
+        loader: async () => {
           const res = await axios.get("/apps.json");
           return res.data;
         }
