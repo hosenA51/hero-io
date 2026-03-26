@@ -21,7 +21,7 @@ const router = createBrowserRouter([
         element: <Home />,
         errorElement: <ErrorPage />,
         loader: async () => {
-          const res = await axios.get("/apps.json");
+          const res = await axios.get("apps.json");
           return res.data;
         }
       },
@@ -29,7 +29,7 @@ const router = createBrowserRouter([
         path: "/apps",
         element: <Apps />,
         loader: async () => {
-          const res = await axios.get("/apps.json");
+          const res = await axios.get("apps.json");
           return res.data;
         }
       },
@@ -37,7 +37,7 @@ const router = createBrowserRouter([
         path: "/app-details/:id",
         element: <AppDetails />,
         loader: async ({params}) => {
-          const res = await axios.get("/apps.json");
+          const res = await axios.get("apps.json");
           const apps = res.data.find((app)=>app.id === parseInt(params.id))
           return apps;
         }
