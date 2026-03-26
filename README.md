@@ -16,3 +16,7 @@ Empowering users to discover, explore, and install apps effortlessly — a moder
 - React Router
 - Recharts
 - DaisyUI
+
+## 🔗 Live Link
+
+[https://stately-pavlova-1e9d86.netlify.app/](https://stately-pavlova-1e9d86.netlify.app/)
